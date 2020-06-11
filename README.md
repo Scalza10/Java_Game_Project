@@ -23,3 +23,10 @@ Use the following lines in the VM arguments part of the run configuration:
 --module-path "\path\to\javafx-sdk-11.0.2\lib"
 
 --add-modules javafx.controls,javafx.fxml
+
+## Credits
+
+The code was adapted and learned from the Youtueb channel:
+
+[javacraving](https://www.youtube.com/watch?v=DkIuA5ZEZ_U)
+
