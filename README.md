@@ -1,5 +1,9 @@
 # Java_Game_Project
+By Sebastian Calzadilla
+
+
 Game development project on JavaFx.
+
 
 ## Libraries
 
@@ -15,4 +19,5 @@ Caused by: java.lang.NoClassDefFoundError: javafx/application/Application
 Use the following lines in the VM arguments part of the run configuration:
 
 --module-path "\path\to\javafx-sdk-11.0.2\lib"
+
 --add-modules javafx.controls,javafx.fxml
