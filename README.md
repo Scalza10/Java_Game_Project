@@ -7,7 +7,9 @@ Game development project on JavaFx.
 
 ## Libraries
 
-The javafx-sdk folder contains the javafx libraries you will need to install in order to run a JavaFx project like mine.
+The javafx-sdk folder contains the JavaFx libraries you will need to install in order to run a JavaFx project like mine.
+
+They will need to be added to the project in properties > Java Build Path > Libraries > Add external JARs...
 
 ## Miscellaneous bugs
 
