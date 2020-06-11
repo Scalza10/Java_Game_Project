@@ -26,7 +26,7 @@ Use the following lines in the VM arguments part of the run configuration:
 
 ## Credits
 
-The code was adapted and learned from the Youtueb channel:
+The code was adapted and learned from the Youtube channel:
 
 [javacraving](https://www.youtube.com/watch?v=DkIuA5ZEZ_U)
 
